@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.toggleParagraph(paragraph:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.childParagraph(forParagraph:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.numberOfSections(in:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.array">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
